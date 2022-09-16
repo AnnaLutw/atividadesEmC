@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662412819 source:c:\users\anagt\documents\atividadesemc\atividadesrepetição\atividade4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

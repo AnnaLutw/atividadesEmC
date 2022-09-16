@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662334989 source:c:\users\anagt\documents\atividadesemc\atividade3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
